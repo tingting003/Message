@@ -1,1 +1,2 @@
-Hi,I am trying to use github for windows, and this Repository is Message practice. 
+Hi
+I am trying to use github for Window,and this Repository is message practice.
